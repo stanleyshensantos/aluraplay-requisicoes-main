@@ -1,3 +1,19 @@
+# AluraPlay
+
+Objetivo do projeto desenvolver minhas habilidades
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **AluraPlay**
+| :label: Tecnologias | javaScript, html, css, Bootstrap(tecnologias utilizadas)
+| :rocket: URL         | https://url-deploy.com.br
+| :fire: Desafio     | https://url-do-desafio.com.br
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![meteora](https://github.com/stanleyshensantos/aluraplay-requisicoes-main/blob/master/img/upload.png#vitrinedev)
+
+## Detalhes do projeto
+Projeto concluido no curso de Bootstrap 5 da Alura
 <p align="center"> <img src="https://imgur.com/J3hD21O.png" alt="Javascript: criando requisições"> </p>
 
 <hr>
