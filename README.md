@@ -10,7 +10,7 @@ Objetivo do projeto desenvolver minhas habilidades
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![meteora](https://github.com/stanleyshensantos/aluraplay-requisicoes-main/blob/master/img/upload.png#vitrinedev)
+![aluraplay-requisicoes-main](https://github.com/stanleyshensantos/aluraplay-requisicoes-main/blob/master/img/upload.png#vitrinedev)
 
 ## Detalhes do projeto
 Projeto concluido no curso de Bootstrap 5 da Alura
